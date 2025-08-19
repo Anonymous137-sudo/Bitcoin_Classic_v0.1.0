@@ -6,7 +6,7 @@ fully peer‑to‑peer, truly decentralized.
 ---
 
 ## 📦 Release Info
-- **Version:** v1.0.0
+- **Version:** v0.1.2
 - **Platform:** macOS ARM64 (Apple Silicon)
 - **Consensus:** Proof‑of‑Work
 - **License:** MIT (see LICENSE)
