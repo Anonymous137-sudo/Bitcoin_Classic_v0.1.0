@@ -1,4 +1,4 @@
-# 🚀 Bitcoin‑Classic — An Experimental Digital and Decentralized PoW P2P Cash System (v0.1.2 macOS(native),Windows and Linux(compiled from Source))
+# 🚀 Bitcoin‑Classic — An Experimental Digital and Decentralized PoW P2P Cash System (v0.1.3 macOS(native),Windows and Linux(compiled from Source))
 
 Lightweight, bloat‑free, historically faithful digital cash —  
 fully peer‑to‑peer, truly decentralized.
@@ -6,8 +6,8 @@ fully peer‑to‑peer, truly decentralized.
 ---
 
 ## 📦 Release Info
-- **Version:** v0.1.2
-- **Platform:** macOS ARM64 (Apple Silicon)
+- **Version:** v0.1.3
+- **Platform:** macOS ARM64 (Apple Silicon) and x86_64(Intel/AMD)
 - **Consensus:** Proof‑of‑Work
 - **License:** MIT (see LICENSE)
 
