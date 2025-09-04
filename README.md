@@ -7,14 +7,14 @@ fully peer‑to‑peer, truly decentralized.
 
 ## 📦 Release Info
 - **Version:** v0.1.3
-- **Platform:** macOS ARM64 (Apple Silicon) and x86_64(Intel/AMD)
+- **Platform:** macOS ARM64 (Apple Silicon) and x86_64(Intel/AMD),Windows ARM and x86_64,Linux ARM and x86_64
 - **Consensus:** Proof‑of‑Work
 - **License:** MIT (see LICENSE)
 
 ---
 
 ## 🛠 Requirements
-- macOS 10.5+ (High Sierra or newer), Windows 10 or higher, Linux (Debian)
+- macOS 10.5+ (High Sierra or newer), Windows 10 or higher, Linux (Debian recommended)
 - Terminal app (default or iTerm2)
 - Network access for P2P sync
 
