@@ -14,7 +14,7 @@ fully peer‑to‑peer, truly decentralized.
 ---
 
 ## 🛠 Requirements
-- macOS 10.5+ (High Sierra or newer)
+- macOS 10.5+ (High Sierra or newer), Windows 10 or higher, Linux (Debian)
 - Terminal app (default or iTerm2)
 - Network access for P2P sync
 
